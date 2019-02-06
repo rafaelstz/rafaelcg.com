@@ -1,13 +1,13 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  url: 'https://rafaelcg.netlify.com',
+  title: 'Rafael Corrêa Gomes',
+  subtitle: 'Ecommerce Evangelist',
   copyright: '© All rights reserved.',
-  disqusShortname: '',
+  disqusShortname: 'rafaelcorreagomes',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'GTM-K9NVBZQ',
   menu: [
     {
       label: 'Articles',
@@ -23,14 +23,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Rafael Corrêa Gomes',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Magento Master 2018, Ecommerce Evangelist for ImaginationMedia, passionate for sharing knowledge',
     contacts: {
-      email: '#',
+      email: 'rafaelcgstz@gmail.com',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'rafaelcgstz',
+      github: 'rafaelstz',
       rss: '#',
       vkontakte: '#'
     }
