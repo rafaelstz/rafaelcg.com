@@ -28,11 +28,9 @@ module.exports = {
     bio: 'Magento Master 2018, Ecommerce Evangelist for ImaginationMedia, passionate for sharing knowledge',
     contacts: {
       email: 'rafaelcgstz@gmail.com',
-      telegram: '#',
       twitter: 'rafaelcgstz',
       github: 'rafaelstz',
-      rss: '#',
-      vkontakte: '#'
+      rss: 'rss.xml'
     }
   }
 };
