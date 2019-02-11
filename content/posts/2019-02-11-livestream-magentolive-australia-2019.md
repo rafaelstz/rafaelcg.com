@@ -1,15 +1,10 @@
 ---
-template: post
+template: "post"
 title: 'Livestream: MagentoLive Australia 2019'
-slug: livestream-magentolive-australia-2019
+slug: '/livestream-magentolive-australia-2019'
 draft: false
-date: 2019-02-11T18:38:00.000Z
-description: >-
-  MagentoLive Australia will host the biggest innovators in eCommerce. Join us
-  in Sydney and discover what’s new in the world of digital commerce and the
-  Magento ecosystem in the Asia-Pacific region. Whether you’re a developer, CMO,
-  or part of a Fortune 500 company, get ready for two days of networking and
-  education that will inspire you to take your business into the future.
+date: "2019-02-11T18:38:00.169Z"
+description: "MagentoLive Australia will host the biggest innovators in eCommerce. Join us in Sydney and discover what’s new in the world of digital commerce and the Magento ecosystem in the Asia-Pacific region. Whether you’re a developer, CMO, or part of a Fortune 500 company, get ready for two days of networking and education that will inspire you to take your business into the future."
 category: Magento
 tags:
   - Magento
@@ -27,9 +22,9 @@ You can select your favorite lectures using the event agenda page to not lose it
 
 ## Day one
 
-<div style="width: 640px;margin: 0 auto;">
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fqUidqxVsCU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<figure class="video_container">
+    <iframe height="360" src="https://www.youtube-nocookie.com/embed/fqUidqxVsCU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 ## Day two
 

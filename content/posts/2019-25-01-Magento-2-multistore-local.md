@@ -3,7 +3,7 @@ template: post
 title: Configure a local Magento 2 multi-store
 slug: /blog/Magento-2-multistore-local.html
 draft: false
-date: 2019-01-25T21:40:32.169Z
+date: "2019-01-25T21:40:32.169Z"
 description: >-
   An Essay on Typography by Eric Gill takes the reader back to the year 1930.
   The year when a conflict between two worlds came to its term. The machines of
