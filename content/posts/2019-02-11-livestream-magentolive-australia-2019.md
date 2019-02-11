@@ -23,11 +23,13 @@ This event happens in **Sydney - Australia**, during the days **12 - 13 February
 
 You can select your favorite lectures using the event agenda page to not lose it anything.
 
-**Agenda: **[MagentoLive 2019 Agenda](https://live-au.magento.com/agenda)
+**Agenda: [MagentoLive 2019 Agenda](https://live-au.magento.com/agenda)**
 
 ## Day one
 
+<div style="width: 640px;margin: 0 auto;">
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fqUidqxVsCU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 ## Day two
 
