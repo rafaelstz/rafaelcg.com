@@ -1,7 +1,7 @@
 ---
 template: page
 title: About me
-slug: about-me
+slug: pages/about
 draft: false
 ---
 Hi, I'm ecommerce evangelist / developer for Imagination Media. I'm responsible for lead the team to building innovator products and improve the workflow strategy.
