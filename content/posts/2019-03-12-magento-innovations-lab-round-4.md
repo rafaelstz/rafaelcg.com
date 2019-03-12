@@ -1,7 +1,7 @@
 ---
 template: post
 title: ' Magento Innovations Lab round 4'
-slug: '/blog/Magento-Innovations-Lab-round-4 '
+slug: /blog/Magento-Innovations-Lab-round-4
 draft: false
 date: 2019-03-12T16:09:43.764Z
 description: >-
