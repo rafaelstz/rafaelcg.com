@@ -1,7 +1,7 @@
 ---
 template: post
 title: 'Livestream: MagentoLive Australia 2019'
-slug: /livestream-magentolive-australia-2019
+slug: /blog/livestream-magentolive-australia-2019
 draft: false
 date: '2019-02-11T18:38:00.169Z'
 description: >-
