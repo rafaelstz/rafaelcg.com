@@ -21,7 +21,7 @@ Many developers ignore the composer.lock into their .gitignore, it because it's 
 
 ![Using or not the composer.lock file](https://i.imgur.com/Kl1Rs3A.png "Using or not the composer.lock file")
 
-\- You can find in the Composer documentation saying:
+\- You can find in the [Composer documentation](https://getcomposer.org/doc/01-basic-usage.md#commit-your-composer-lock-file-to-version-control) saying:
 
 > "You should commit the composer.lock file to your project repo so that all people working on the project are locked to the same versions of dependencies."
 
@@ -31,7 +31,7 @@ Many developers ignore the composer.lock into their .gitignore, it because it's 
 
 \- As each install will use the composer.lock file, it will install the same package distribution version for each developer, avoiding the famous sentence **"It's working in my machine"**.
 
-\- This practice is not recommended for libraries according to the Composer Documentation.
+\- This practice is not recommended for libraries according to the [Composer documentation](https://getcomposer.org/doc/02-libraries.md#lock-file).
 
 > "For libraries, it is not necessarily recommended to commit the lock file"
 
