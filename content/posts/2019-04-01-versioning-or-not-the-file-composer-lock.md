@@ -31,9 +31,9 @@ Many developers ignore the composer.lock into their .gitignore, it because it's 
 
 \- As each install will use the composer.lock file, it will install the same package distribution version for each developer, avoiding the famous sentence **"It's working in my machine"**.
 
-\- This practice is not recommended for libraries according to the [Composer documentation](https://getcomposer.org/doc/02-libraries.md#lock-file).
+\- This practice is recommended for libraries too, according to the [Composer documentation](https://getcomposer.org/doc/02-libraries.md#lock-file).
 
-> "For libraries, it is not necessarily recommended to commit the lock file"
+> "For your library you may commit the composer.lock file if you want to."
 
 \- Never use composer update in your production, it might update packages which you didn't update in UAT yet, so, UAT environment loses its purpose.
 
