@@ -3,7 +3,7 @@ template: post
 title: Versioning or not the file composer.lock?
 slug: /blog/versioning-or-not-the-file-composer-lock.html
 draft: true
-date: 2019-04-04T02:00:00.000Z
+date: 2019-04-13T02:00:00.000Z
 description: >-
   Many developers ignore the composer.lock into their .gitignore, it because
   it's an auto-generated file. By analyzing the gitignore file's purpose this
@@ -11,7 +11,7 @@ description: >-
   this file, and using the composer install command to prepare an environment,
   not composer update, let's check basis that sustains that idea in order to
   apply this change on your projects.
-category: environment
+category: 'environment, git'
 tags:
   - environment
   - workflow
