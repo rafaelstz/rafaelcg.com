@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'Rafael Corrêa Gomes',
     photo: '/photo.jpg',
-    bio: 'Magento Master 2018, Ecommerce Evangelist for ImaginationMedia, passionate for sharing knowledge',
+    bio: 'Magento Master 2018, IT Director at LeSite, passionate for ecommerce and opensource',
     contacts: {
       email: 'rafaelcgstz@gmail.com',
       twitter: 'rafaelcgstz',
