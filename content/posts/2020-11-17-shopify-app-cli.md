@@ -2,7 +2,7 @@
 template: post
 title: Shopify App CLI
 slug: shopify-app-cli
-draft: true
+draft: false
 date: 2020-11-17T15:41:02.212Z
 description: >-
   If you are going to start developing Shopify Apps the Shopify CLI is one of
