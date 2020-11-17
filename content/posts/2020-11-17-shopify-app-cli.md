@@ -95,7 +95,7 @@ These below are all the commands available to you to use after creating the Node
 
 **version:** Prints version number.
 
-_  Usage: shopify version_
+  _Usage: shopify version_
 
 **deploy:** Deploy the current Node project to a hosting service. Heroku (https://www.heroku.com) is currently the only option, but more will be added in the future.
 
@@ -103,7 +103,7 @@ _  Usage: shopify version_
 
 **generate:** Generate code in your Node project. Supports generating new billing API calls, new pages, or new webhooks.
 
- _ Usage: shopify generate \[ billing | page | webhook ]_
+  _Usage: shopify generate \[ billing | page | webhook ]_
 
 **open:** Open your local development app in the default browser.
 
