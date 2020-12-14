@@ -3,7 +3,7 @@ template: post
 title: How to setup Dev Container in VSCode to develop Shopify nodejs apps
 slug: setup-devcontainer-vscode-shopify-node-app
 socialImage: /media/image-2.jpg
-draft: true
+draft: false
 date: 2020-12-14T16:56:35.247Z
 description: >-
   Learn how to start to use a new Docker environment via DevContainer in order
